@@ -1,111 +1,44 @@
-<svg fill="none" viewBox="0 0 100 100" style="width: auto;height: auto; background:white;" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-            body {
-                font-family: "Inter", sans-serif;
-            }
+# Whitten.io
 
-            .container {
-                display: grid;
-                height: 100vh;
-                grid-template-columns: 1fr 1fr 1fr 1fr;
-                grid-template-rows: 0.2fr 1.5fr 1.2fr 0.8fr;
-                grid-template-areas:
-                    "nav nav nav nav"
-                    "sidebar main main main"
-                    "sidebar content1 content2 content3"
-                    "sidebar footer footer footer";
-                grid-gap: 0.2rem;
-                font-weight: 800;
-                text-transform: uppercase;
-                font-size: 12px;
-                color: #004d40;
-                text-align: center;
-            }
+## Stack 
 
-            nav {
-                background: #a7ffeb;
-                grid-area: nav;
-                border-radius: var(--main-radius);
-                padding-top: var(--main-padding);
-            }
+- [Stack]()
+- [Stack]()
+- [Stack]()
+- [Stack]()
+- [Stack]()
+- [Stack]()
 
-            main {
-                background: #84ffff;
-                grid-area: main;
-                border-radius: var(--main-radius);
-                padding-top: var(--main-padding);
-            }
+## DevOps
 
-            #sidebar {
-                background: #18ffff;
-                grid-area: sidebar;
-                border-radius: var(--main-radius);
-                padding-top: var(--main-padding);
-            }
+- [DevOps]()
+- [DevOps]()
+- [DevOps]()
+- [DevOps]()
+- [DevOps]()
+- [DevOps]()
+- [DevOps]()
 
-            #content1 {
-                background: #6fffd2;
-                grid-area: content1;
-                border-radius: var(--main-radius);
-                padding-top: var(--main-padding);
-            }
+## Dev
 
-            #content2 {
-                background: #64ffda;
-                grid-area: content2;
-                border-radius: var(--main-radius);
-                padding-top: var(--main-padding);
-            }
+- [Dev]()
+- [Dev]()
+- [Dev]()
+- [Dev]()
+- [Dev]()
 
-            #content3 {
-                background: #73ffba;
-                grid-area: content3;
-                border-radius: var(--main-radius);
-                padding-top: var(--main-padding);
-            }
+## Cloud
 
-            footer {
-                background: #1de9b6;
-                grid-area: footer;
-                border-radius: var(--main-radius);
-                padding-top: var(--main-padding);
-            }
+- [Cloud]()
+- [Cloud]()
+- [Cloud]()
+- [Cloud]()
+- [Cloud]()
 
-            a {
-                text-align: center;
-                display: block;
-                font-family: inherit;
-                text-decoration: none;
-                font-weight: bold;
-                margin: 1rem;
-            }
+## Extensions
 
-        @media only screen and (max-width: 550px) {
-            .container {
-                grid-template-columns: 1fr;
-                grid-template-rows: 0.4fr 0.4fr 2.2fr 1.2fr 1.2fr 1.2fr 1fr;
-                grid-template-areas:
-                "nav"
-                "sidebar"
-                "main"
-                "content1"
-                "content2"
-                "content3"
-                "footer";
-            }
-        }
-      </style>
-      <div class="container">
-        <nav>Whitten.io</nav>
-        <main>⌨️ Main</main>
-        <div id="sidebar">Sidebar</div>
-        <div id="content1">Content1</div>
-        <div id="content2">Content2</div>
-        <div id="content3">Content3</div>
-        <footer>Footer</footer>
-        </div>
-    </div>
-  </foreignObject>
-</svg>
+- [Extensions]()
+- [Extensions]()
+- [Extensions]()
+- [Extensions]()
+- [Extensions]()
